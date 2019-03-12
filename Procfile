@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT newsroom_1297.wsgi:application
